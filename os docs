@@ -1,0 +1,298 @@
+
+ 🍕 Aigent Pizza OS
+
+### A Visual Control Surface for Distributed AI Agents
+
+![status](https://img.shields.io/badge/status-hackathon%20prototype-orange)
+![agents](https://img.shields.io/badge/AI-agents-blue)
+![architecture](https://img.shields.io/badge/system-distributed-green)
+![interface](https://img.shields.io/badge/interface-visual-purple)
+
+Aigent Pizza OS is a **human-friendly control interface for complex AI agent systems**.
+
+Instead of navigating complicated dashboards or terminal commands, users interact with infrastructure through a **visual pizza-style control surface inspired by 8-bit computing architecture**.
+
+The result is a system that makes **distributed AI understandable and controllable by humans.**
+
+---
+
+# 🎥 Demo
+
+Example prototype interface:
+
+```
+🍕 Pizza Control Surface
+ ├── Agents
+ ├── Telemetry
+ ├── Compute
+ ├── Storage
+ ├── Security
+ ├── Monitoring
+ ├── Networking
+ └── Memory
+```
+
+Each slice represents a **core system module**.
+
+The interface acts as a **navigation layer for AI infrastructure**.
+
+---
+
+# 🧠 The Idea
+
+Computers think in bits.
+
+```
+1 byte = 8 bits
+```
+
+The pizza interface reflects this structure visually.
+
+```
+        Monitoring
+   Security        Agents
+
+  Storage           Compute
+
+   Networking     Telemetry
+        Memory
+```
+
+Instead of complex nested dashboards, the system presents infrastructure as **modular visual segments.**
+
+This allows users to quickly understand and interact with complex systems.
+
+---
+
+# ⚙️ Architecture
+
+Aigent Pizza OS sits on top of a distributed infrastructure stack.
+
+```
+┌──────────────────────────┐
+│     Pizza Control UI     │
+│   (Human Interface)      │
+└───────────▲──────────────┘
+            │
+┌───────────┴──────────────┐
+│     Agent Execution      │
+│  Autonomous Task Layer   │
+└───────────▲──────────────┘
+            │
+┌───────────┴──────────────┐
+│      Telemetry Layer     │
+│  System Metrics + State  │
+└───────────▲──────────────┘
+            │
+┌───────────┴──────────────┐
+│     Hardware Nodes       │
+│  Pi • Mac • GPU • Edge   │
+└──────────────────────────┘
+```
+
+---
+
+# 🧩 System Components
+
+### 🍕 Pizza Interface
+
+Human control surface.
+
+Allows users to:
+
+• explore system modules
+• visualise infrastructure
+• trigger agent tasks
+• inspect telemetry
+
+---
+
+### 🤖 Agent Layer
+
+AI agents handle tasks such as:
+
+• automation
+• monitoring
+• distributed compute
+• system orchestration
+
+---
+
+### 📡 Telemetry Layer
+
+Nodes stream system data such as:
+
+• CPU usage
+• memory
+• network activity
+• agent status
+
+Telemetry feeds the dashboard in real time.
+
+---
+
+### 🖥 Hardware Nodes
+
+Example nodes include:
+
+```
+Raspberry Pi agents
+Mac workstations
+GPU compute machines
+Edge devices
+```
+
+These form the distributed compute layer.
+
+---
+
+# 🧑‍💻 Built During Hackathon
+
+This prototype was built during a **live AI agent hackathon**.
+
+The project includes:
+
+• visual pizza interface prototype
+• system telemetry experiments
+• terminal-based infrastructure tests
+• architecture design for distributed AI control
+
+The goal was to demonstrate:
+
+**how complex AI infrastructure can become human-friendly.**
+
+---
+
+# 🧠 Design Philosophy
+
+## Human-first AI interfaces
+
+AI systems are becoming increasingly complex.
+
+Most tools today rely on:
+
+• CLI commands
+• complicated dashboards
+• fragmented monitoring tools
+
+Aigent Pizza OS introduces a **simple visual control surface.**
+
+---
+
+## Visual modular thinking
+
+Segmented visual systems help users understand infrastructure faster.
+
+Benefits include:
+
+• intuitive system navigation
+• reduced cognitive load
+• modular system design
+
+---
+
+## Spatial Interfaces
+
+Many people reason about systems better visually than textually.
+
+The pizza model creates a **mental map of infrastructure.**
+
+---
+
+# 🚀 Future Roadmap
+
+The current project is a **prototype concept**.
+
+Future development could include:
+
+### Real-time telemetry streaming
+
+Live hardware monitoring across nodes.
+
+---
+
+### Agent orchestration
+
+Direct control of autonomous agents.
+
+---
+
+### Multi-node infrastructure control
+
+Cluster visualisation and orchestration.
+
+---
+
+### Secure admin layer
+
+Authentication and infrastructure management.
+
+---
+
+### VR / spatial interfaces
+
+Visualising AI infrastructure in immersive environments.
+
+---
+
+# 🧪 Example Use Cases
+
+Possible applications include:
+
+• AI infrastructure control systems
+• robotics control dashboards
+• distributed compute orchestration
+• edge computing networks
+• autonomous agent monitoring
+
+---
+
+# 🌐 Why Pizza?
+
+The pizza metaphor simplifies complex systems.
+
+Each slice represents a **functional module**.
+
+The whole pizza represents the **entire infrastructure system.**
+
+This creates a **memorable and intuitive mental model.**
+
+---
+
+# 📜 License
+
+MIT License
+
+---
+
+# 🍕 Aigent Pizza OS
+
+**Complex AI systems need human-friendly interfaces.**
+
+The pizza just happens to be the perfect shape.
+
+---
+
+# 👨‍💻 Author
+
+Colin Porter
+Computer Scientist • Systems Engineer
+UK
+
+---
+
+## ⭐ If you like this idea
+
+Star the repo and follow the project.
+
+---
+
+## Final tip before your pitch
+
+When someone asks what it is, say this:
+
+**“It’s a visual control surface for AI infrastructure.”**
+
+Not pizza.
+
+Pizza is just the metaphor.

@@ -1,0 +1,204 @@
+ Aigent Pizza OS
+
+A Visual Operating System for Distributed AI Agents
+
+Aigent Pizza OS is an experimental interface for orchestrating AI agents across multiple machines using a human-readable control system.
+
+Instead of traditional dashboards or command lines, Aigent uses a visual byte model inspired by an eight-slice pizza.
+
+1 Byte = 8 Bits
+1 Pizza = 8 Execution Modules
+
+Each slice represents a functional execution layer inside an AI agent network.
+
+The goal is to make distributed AI orchestration understandable, observable, and controllable by humans.
+
+Built in under 24 hours during an AI Agent Hackathon.
+
+---
+
+# The Idea
+
+Modern AI systems are becoming distributed, autonomous, opaque, and difficult to monitor.
+
+Aigent Pizza OS explores a different model: visual system control.
+
+The pizza interface acts as a human control surface for complex distributed systems.
+
+System flow
+
+User
+↓
+Pizza Interface (Byte Model)
+↓
+Agent Execution Layer
+↓
+Distributed Compute Nodes
+↓
+Telemetry + TimeCore
+
+This allows operators to
+
+• view system health
+• monitor execution flows
+• control agent behaviour
+• observe distributed performance
+
+---
+
+# The Pizza Byte Model
+
+A single pizza represents one byte of computational structure.
+
+```
+    1
+```
+
+128      2
+
+64           4
+
+```
+32      8
+     16
+```
+
+Each slice represents a functional system module.
+
+Example mapping
+
+Slice 1 — Agent orchestration
+Slice 2 — Execution engine
+Slice 3 — Memory layer
+Slice 4 — Network communication
+Slice 5 — Data ingestion
+Slice 6 — Monitoring and telemetry
+Slice 7 — Security and sovereignty
+Slice 8 — TimeCore event system
+
+This creates a human-friendly representation of system architecture.
+
+---
+
+# System Components
+
+The interface visualises a complete agent operating system architecture.
+
+Agent Fleet
+Distributed AI workers responsible for task execution.
+
+Distributed Execution
+Multi-machine orchestration and scalable agent deployment.
+
+Network Topology
+Visualisation of node connectivity and system structure.
+
+Performance Telemetry
+Monitoring of system resources and operational metrics.
+
+Sovereign Layer
+Governance layer controlling execution permissions and system rules.
+
+TimeCore
+Timestamped event system used for tracing system activity and debugging.
+
+---
+
+# Telemetry Dashboard
+
+The system includes a dashboard for observing distributed compute activity.
+
+Metrics displayed include
+
+CPU utilisation
+Memory usage
+Node activity
+Agent execution state
+Network health
+
+This provides observability for AI agent systems.
+
+---
+
+# Technology Stack
+
+React
+TypeScript
+Vite
+TailwindCSS
+Shadcn UI
+
+Planned integrations
+
+Raspberry Pi nodes
+Mac compute nodes
+SSH orchestration
+Agent telemetry streaming
+
+---
+
+# Vision
+
+AI systems are evolving into complex distributed infrastructures.
+
+Future AI tools will require
+
+visual orchestration
+human-readable system models
+transparent telemetry
+intuitive control surfaces
+
+Aigent Pizza OS explores how visual metaphors can help humans understand and operate complex AI systems.
+
+---
+
+# Project Structure
+
+src/
+
+components/
+AgentFleet
+DistributedExecution
+NetworkTopology
+PerformanceTelemetry
+SovereignLayer
+TimeCore
+
+pages/
+MissionControl
+ArchitectureOverview
+Dashboard
+
+systems/
+PizzaInterface
+
+---
+
+# Future Development
+
+Next steps for the system include
+
+real telemetry from compute nodes
+SSH node control
+distributed agent deployment
+TimeCore event logging
+multi-machine orchestration
+
+---
+
+# Author
+
+Colin Porter
+Computer Scientist
+AI Systems Explorer
+Bitcoin Educator
+
+---
+
+# Philosophy
+
+Complex systems do not have to be invisible.
+
+Sometimes the best interface is a pizza.
+
+
